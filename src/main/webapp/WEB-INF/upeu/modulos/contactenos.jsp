@@ -17,5 +17,4 @@
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-<a href="/pers" class="btn btn-danger">Ir Persona</a>
 <a href="/" class="btn btn-warning">regresar</a> <br>

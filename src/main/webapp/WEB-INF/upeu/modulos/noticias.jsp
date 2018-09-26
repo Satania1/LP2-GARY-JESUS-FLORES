@@ -15,7 +15,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Persona DMP</h1>
+        <h1>NOTICIAS</h1>
           
           <div class="row">
   <div class="col-sm-6">
@@ -42,7 +42,6 @@
 </div>
     </body>
     
-    <a href="/report" class="btn btn-primary">Ir Reporte Persona</a>
     <a href="/" class="btn btn-warning">regresar</a> <br>
 
 </html>
